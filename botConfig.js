@@ -4,5 +4,5 @@ module.exports = {
         "367726749225582595"
 ],
     debug: true,
-    countChannel: "840941208662310933"
+    countChannel: "841287681798701076"
 };
