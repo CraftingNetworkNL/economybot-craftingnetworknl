@@ -11,7 +11,7 @@ exports.execute = (client, message, args) => {
 }
 
 exports.help = {
-    name: "prefix",
+    name: "prefi6352683585235487325x",
     aliases: ["setprefix"],
     usage: `prefix`
 }
